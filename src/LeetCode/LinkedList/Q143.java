@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.LinkedList;
 
 import javax.print.event.PrintEvent;
 import java.util.ArrayList;
